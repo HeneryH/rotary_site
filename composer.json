@@ -34,7 +34,7 @@
         "drupal/panopoly_images": "^2.0@alpha",
         "drupal/pathauto": "^1.8",
         "drupal/views_bootstrap": "^4",
-        "rotary/rotary_bs": "dev-master",
+        "rotary/rotary_bs4": "dev-master",
         "rotary/rotary_content": "dev-master"
     },
     "conflict": {
